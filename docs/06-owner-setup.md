@@ -44,11 +44,13 @@ Squash だけにすることで、main の履歴が「1 PR ＝ 1 コミット」
 
 ## 6-4. 秘密情報の流出対策
 
-Settings → Code security（Advanced Security）
+Settings → 左メニュー「Security and quality」の中の **Advanced Security**
 
-- ✅ **Secret scanning**
-- ✅ **Push protection**（既知の形式の API キーなどを含む push を GitHub が止める）
-- ✅ Dependabot alerts（依存パッケージの脆弱性通知）
+- **Secret Protection** の右にある「Enable」を押す（以前は「Secret scanning」という名前だった機能）
+- 有効にすると、その下に出る **Push protection** も有効になっているか確認（既知の形式の API キーなどを含む push を GitHub が止める）
+- Dependabot alerts も有効にしておく（依存パッケージの脆弱性通知）
+
+> GitHub の画面は名前や場所がよく変わります。見つからないときは Settings の左メニューで「Security」を含む項目を探してください。Public リポジトリなら無料で使えます。
 
 加えて、リポジトリの `.gitignore` に以下が入っているか確認：
 
