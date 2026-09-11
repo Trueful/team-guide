@@ -1,6 +1,6 @@
 # Trueful チーム開発ガイド
 
-Trueful（https://github.com/Trueful/Trueful ）を3人で共同開発するための資料です。
+Trueful（https://github.com/Trueful/Trueful）を3人で共同開発するための資料です。
 全員「プログラミングはできるけど、Git と GitHub での共同開発は初めて」という前提で書いています。
 
 このリポジトリ自体が **練習場** も兼ねています。資料の誤字を直したり、自己紹介を追加したりして、本番（Trueful）の前にここで Pull Request の流れを体験してください。
@@ -15,6 +15,7 @@ Trueful（https://github.com/Trueful/Trueful ）を3人で共同開発するた�
 | 4 | [チームルール](docs/04-team-rules.md) | ブランチ名・コミット・PR・レビュー | 最初に一度＋迷ったとき |
 | 5 | [困ったとき](docs/05-troubleshooting.md) | よくあるトラブルと戻し方 | 困ったとき |
 | 6 | [オーナー向け設定](docs/06-owner-setup.md) | リポジトリの保護設定など | オーナーのみ |
+| 7 | [Git コマンド集](docs/07-git-commands.md) | 目的別のコマンド早見表（危険度つき） | 必要なときに引く |
 
 ## 最初の練習課題
 
