@@ -1,6 +1,6 @@
 # Trueful チーム開発ガイド
 
-Trueful（https://github.com/Trueful/Trueful）を3人で共同開発するための資料です。
+Trueful（https://github.com/Trueful/Trueful ）を3人で共同開発するための資料です。
 全員「プログラミングはできるけど、Git と GitHub での共同開発は初めて」という前提で書いています。
 
 このリポジトリ自体が **練習場** も兼ねています。資料の誤字を直したり、自己紹介を追加したりして、本番（Trueful）の前にここで Pull Request の流れを体験してください。
