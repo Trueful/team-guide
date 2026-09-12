@@ -16,6 +16,7 @@ Trueful（https://github.com/Trueful/Trueful）を3人で共同開発するた�
 | 5 | [困ったとき](docs/05-troubleshooting.md) | よくあるトラブルと戻し方 | 困ったとき |
 | 6 | [オーナー向け設定](docs/06-owner-setup.md) | リポジトリの保護設定など | オーナーのみ |
 | 7 | [Git コマンド集](docs/07-git-commands.md) | 目的別のコマンド早見表（危険度つき） | 必要なときに引く |
+| 8 | [用語集](docs/08-glossary.md) | PR・MVP・AWS など開発でよく出る言葉 | 分からない言葉が出てきたとき |
 
 ## 最初の練習課題
 
